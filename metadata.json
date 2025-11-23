@@ -1,0 +1,5 @@
+{
+  "name": "Bibliotecário Digital",
+  "description": "Uma aplicação para recomendar livros da Biblioteca Escolar com base nos gostos dos alunos.",
+  "requestFramePermissions": []
+}
